@@ -1,6 +1,6 @@
 ## 前言
 
-我们将会选择使用一些vue周边的库 `vue-cli`, `vue-router`,`vue-resource`,`vuex`
+vue的库 `vue-cli`, `vue-router`,`vue-resource`,`vuex`
 
 > 1.使用vue-cli创建项目
 
@@ -13,10 +13,6 @@
 > 5.使用.vue文件进行组件化的开发
 
 > PS：本文node v6.2.2 npm v3.9.5 vue v2.1.0 vue-router v2.0.3 vuex v2.0.0 
-
-> 若你要看vue1.0构建单页应用最佳实战 请 前往 master 分支  [vue1.0构建单页应用最佳实战](https://github.com/MeCKodo/vue-tutorial/tree/master)
-
-最终我们将会构建出一个小demo，不废话，直接上图。
 
 
 ![](http://7xim8z.com1.z0.glb.clouddn.com/vue2spa-1.png)
@@ -675,7 +671,6 @@ var app = new Vue({
 });
 ```
 
-开始体验下你自己的任务计划板吧！
 
 ## 最后
 
@@ -693,11 +688,6 @@ var app = new Vue({
 
 6.使用 vue-devtools 观察我们的数据
 
----
-
-个人网站 ：http://www.meckodo.com
-
-github地址：https://github.com/MeCKodo/vue-tutorial
 
 > Have a nice day
 
